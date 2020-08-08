@@ -33,7 +33,7 @@ $ cd gostack11-desafio-10
 # Instalando as dependências
 $ yarn
 
-# Rodar o json-server que vai sumular uma API
+# Rodar o json-server que vai simular uma API
  $ yarn json-server server.json -p 3333
 
 # Rodando a aplicação
